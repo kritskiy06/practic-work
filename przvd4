@@ -19,6 +19,51 @@ table,th,td {
 
     </tr>
     <tr>
-        <td rowspan="4">14 </td>
+        <td rowspan="4"> 14 </td>
+        <td> Математика </td>
+        <td> 14 </td>
     </tr>
+    <tr>
+        <td> Англійська </td>
+        <td> 18 </td>
+    </tr>
+    <tr> 
+        <td> Історія </td>
+        <td> 15 </td>
+    </tr>
+    <tr>
+        <td colspan="2"> Загальний бал: 47 </td>
+    </tr>
+    <tr>
+        <td rowspan="4"> 15 </td>
+        <td> Математика </td>
+        <td> 12 </td>
+    </tr>
+    <tr>
+        <td> Англійська </td>
+        <td> 11 </td>
+    </tr>
+    <tr> 
+        <td> Історія </td>
+        <td> 16 </td>
+    </tr>
+    <tr>
+        <td colspan="2"> Загальний бал: 39 </td>
+        </tr>
+        <tr>
+            <td rowspan="4"> </td>
+            <td> Математика </td>
+        <td> 20 </td>
+    </tr>
+    <tr>
+        <td> Англійська </td>
+        <td> 19 </td>
+    </tr>
+    <tr> 
+        <td> Історія </td>
+        <td> 17 </td>
+    </tr>
+    <tr>
+        <td colspan="2"> Загальний бал: 56 
+
 
